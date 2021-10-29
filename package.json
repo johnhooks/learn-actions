@@ -1,8 +1,7 @@
 {
   "name": "learn-actions",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "The learning GitHub actions monorepo example",
   "scripts": {
     "test": "exit 0"
   },

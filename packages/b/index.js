@@ -1,1 +1,1 @@
-console.log('hello from package @johnhooks/b')
+export default () => console.log('hello from package @johnhooks/b')

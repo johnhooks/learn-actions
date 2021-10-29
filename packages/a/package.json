@@ -1,10 +1,12 @@
 {
   "name": "@johnhooks/a",
   "repository":"https://github.com/johnhooks/learn-actions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
-  "main": "index.js",
+  "type": "module",
+  "module": "index.js",
   "files": [
+    "README.md",
     "index.js"
   ],
   "scripts": {

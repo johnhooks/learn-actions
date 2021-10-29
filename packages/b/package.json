@@ -1,0 +1,15 @@
+{
+  "name": "@johnhooks/b",
+  "repository":"https://github.com/johnhooks/learn-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "John Hooks <bitmachina@outlook.com>",
+  "license": "UNLICENSED"
+}
